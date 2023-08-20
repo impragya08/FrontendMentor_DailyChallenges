@@ -21,7 +21,7 @@
 
 ## **About the Project**
 
-This repository contains my solutions, progress updates, and any related content for the challenges I take on from Frontend Mentor. I will be solving challenges every Tuesday, Thursday, and Saturday.
+This repository contains my solutions, progress updates, and any related content for the challenges I take on from Frontend Mentor. I will be solving challenges every Monday, Wednesday, Friday.
 
 ## **Acknowledgment**
 
@@ -46,4 +46,17 @@ This repository contains my solutions, progress updates, and any related content
 </div>
 
 <br>
+
+## 📅 Day-1: Monday [21-Aug-2023]
+
+### JobXPortal: Advanced Job Listing Website
+
+Welcome to my submission for the Frontend Mentor Daily Challenge! This project is part of the ongoing [Frontend Mentor Daily Challenge](https://www.frontendmentor.io/challenges) series.
+
+**Challenge:** [Job Listings with Filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
+
+If you're interested in exploring more about my implementation of the job listing website, feel free to check out the [JobXPortal repository](https://github.com/impragya08/JobXPortal). Your feedback and suggestions are greatly appreciated!
+
+Happy coding!
+
 
