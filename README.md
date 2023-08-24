@@ -62,6 +62,7 @@ Welcome to my submission for the Frontend Mentor Daily Challenge! This project i
 ### DataInsights: Landing Page
 
 Welcome to my submission for the Frontend Mentor Daily Challenge! This project is part of the ongoing [Frontend Mentor Daily Challenge](https://www.frontendmentor.io/challenges) series.
+Here is my customized solution for this-
 
 **Challenge:** [News homepage](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
 
