@@ -55,8 +55,22 @@ Welcome to my submission for the Frontend Mentor Daily Challenge! This project i
 
 **Challenge:** [Job Listings with Filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt)
 
-If you're interested in exploring more about my implementation of the job listing website, feel free to check out the [JobXPortal repository](https://github.com/impragya08/JobXPortal). Your feedback and suggestions are greatly appreciated!
+**Solution:** [Repo Link](https://github.com/impragya08/JobXPortal)
 
+## 📅 Day-2: Friday [25-Aug-2023]
+
+### DataInsights: Landing Page
+
+Welcome to my submission for the Frontend Mentor Daily Challenge! This project is part of the ongoing [Frontend Mentor Daily Challenge](https://www.frontendmentor.io/challenges) series.
+
+**Challenge:** [News homepage](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl)
+
+**Solution:** [Repo Link](https://github.com/impragya08/DataInsights)
+
+
+
+
+Your feedback and suggestions are greatly appreciated!
 Happy coding!
 
 
